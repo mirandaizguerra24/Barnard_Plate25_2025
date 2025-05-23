@@ -9,5 +9,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mirandaizguerra24.github.io/Barnard_Plate25_2025/manifests/manifest.json",
     "label" : "Barnard's \"A Photographic Atlas of Selected Regions of the Milky Way,\" Plate 25 (10B-255)"
+  }, {
+    "id" : "https://mirandaizguerra24.github.io/Barnard_Plate25_2025/manifests/manifest14.json",
+    "label" : {
+      "en" : [ "Barnard's \"A Photographic Atlas of Selected Regions of the Milky Way,\" Plate 25 (10B-255)" ]
+    },
+    "type" : "Manifest"
   } ]
 }
