@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mirandaizguerra24.github.io/Barnard_Plate25_2025/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in mirandaizguerra24/Barnard_Plate25_2025 project"
+        ]
+    },
+    "items": []
+}
